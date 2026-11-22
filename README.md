@@ -65,5 +65,6 @@ Infra & DevOps:   Docker, Linux VPS, GitHub Actions, Systemd, Prometheus, Grafan
 
 ### 📬 Connect & Collaborate
 
+- **Email:** [pokusko.roman@gmail.com](mailto:pokusko.roman@gmail.com)
 - **GitHub:** [@pokushko](https://github.com/pokushko)
 - **Focus Areas:** Autonomous Agent Governance, Chaos Engineering, High-Frequency Digital Twins, Cross-Table Biophysical Solvers.
