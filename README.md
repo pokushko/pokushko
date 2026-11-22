@@ -12,6 +12,7 @@
 
 <p align="center">
   <a href="https://github.com/pokushko"><img src="https://img.shields.io/github/followers/pokushko?style=social" alt="GitHub followers" /></a>
+  <a href="https://github.com/pokushko"><img src="https://img.shields.io/badge/EvoNova%20Labs-Founder%20%26%20Lead%20Architect-00F0FF.svg" alt="EvoNova Labs" /></a>
   <a href="https://doi.org/10.5281/zenodo.23942797"><img src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.23942797-blue.svg" alt="Zenodo DOI" /></a>
   <a href="https://github.com/pokushko"><img src="https://img.shields.io/badge/VAK%20Specialty-2.3.1%20System%20Analysis-purple.svg" alt="VAK Specialty 2.3.1" /></a>
   <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License MIT" /></a>
@@ -19,13 +20,13 @@
 
 ---
 
-### 🏛️ About Me
+### 🏛️ About Me & EvoNova Labs
 
-I design and engineer **autonomous multi-agent architectures**, **fault-tolerant runtime harnesses**, and **industrial cybernetic systems**. My work focuses on deterministic reliability, zero-lookahead state validation, and evolutionary self-improving systems operating under continuous real-world conditions.
+I am the **Founder & Lead AI Architect at EvoNova Labs**. I design and engineer **autonomous multi-agent architectures**, **fault-tolerant runtime harnesses**, and **industrial cybernetic systems**. At EvoNova Labs, our research bridges deep neuro-symbolic reasoning, physical boundary preservation, and evolutionary self-improving systems operating under continuous real-world conditions.
 
 - 🧠 **Research Specialization:** Autonomous Multi-Agent Systems (MAS), Pearl's Causal Do-Calculus, Evolutionary Hyper-Heuristics, and Industrial Digital Twins.
 - 🛡️ **Reliability Engineering:** 24/7 autonomous agent resilience, transaction Write-Ahead Logging (WAL), RSS memory ceiling guards, and Circuit Breakers.
-- 🔬 **Scientific Heritage:** Rospatent registered software architectures (№ 2026695054, № 2026690237, № 2026667533, № 2025681960, № 2023680119), Zenodo scientific preprints (`10.5281/zenodo.23942797`), and CASE-IN Engineering Championship participant software suites.
+- 🔬 **Scientific Heritage:** Author of CERN Zenodo scientific publications (*EvoNova Scientist: A Neuro-Symbolic Multi-Agent Framework for Physical Constraint-Preserving Autonomous Scientific Discovery*, [DOI: 10.5281/zenodo.23942797](https://doi.org/10.5281/zenodo.23942797)), Rospatent registered software architectures (№ 2026695054, № 2026690237, № 2026667533, № 2025681960, № 2023680119), and CASE-IN Engineering Championship participant software suites.
 
 ---
 
