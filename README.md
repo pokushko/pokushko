@@ -1,25 +1,31 @@
-# Hi there, I'm Roman Pokushko 👋
+<div align="center">
+  <img src="assets/banner.svg" alt="Roman Pokushko - Autonomous Systems Architect" width="100%" />
+</div>
 
-<p align="left">
+<br/>
+
+<p align="center">
   <a href="https://github.com/pokushko">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D26A&vCenter=true&width=620&lines=Autonomous+Multi-Agent+Systems+Architect;24%2F7+Resilience+%26+Chaos+Engineering;Quantitative+Systems+%26+Evolutionary+Marathons;Causal+Do-Calculus+%26+High-Throughput+Digital+Twins" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=00D26A&center=true&vCenter=true&width=620&lines=Autonomous+Multi-Agent+Systems+Architect;24%2F7+Resilience+%26+Chaos+Engineering;Quantitative+Systems+%26+Evolutionary+Marathons;Causal+Do-Calculus+%26+High-Throughput+Digital+Twins" alt="Typing SVG" />
   </a>
 </p>
 
-[![GitHub followers](https://img.shields.io/github/followers/pokushko?style=social)](https://github.com/pokushko)
-[![Zenodo](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.23942797-blue.svg)](https://doi.org/10.5281/zenodo.23942797)
-[![Academic Field](https://img.shields.io/badge/VAK%20Specialty-2.3.1%20System%20Analysis-purple.svg)](https://github.com/pokushko)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+<p align="center">
+  <a href="https://github.com/pokushko"><img src="https://img.shields.io/github/followers/pokushko?style=social" alt="GitHub followers" /></a>
+  <a href="https://doi.org/10.5281/zenodo.23942797"><img src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.23942797-blue.svg" alt="Zenodo DOI" /></a>
+  <a href="https://github.com/pokushko"><img src="https://img.shields.io/badge/VAK%20Specialty-2.3.1%20System%20Analysis-purple.svg" alt="VAK Specialty 2.3.1" /></a>
+  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License MIT" /></a>
+</p>
 
 ---
 
 ### 🏛️ About Me
 
-I design and engineer **autonomous multi-agent architectures**, **fault-tolerant runtime harnesses**, and **industrial digital twins**. My work focuses on deterministic reliability, zero-lookahead state validation, and evolutionary self-improving systems operating under continuous real-world friction.
+I design and engineer **autonomous multi-agent architectures**, **fault-tolerant runtime harnesses**, and **industrial cybernetic systems**. My work focuses on deterministic reliability, zero-lookahead state validation, and evolutionary self-improving systems operating under continuous real-world conditions.
 
 - 🧠 **Research Specialization:** Autonomous Multi-Agent Systems (MAS), Pearl's Causal Do-Calculus, Evolutionary Hyper-Heuristics, and Industrial Digital Twins.
 - 🛡️ **Reliability Engineering:** 24/7 autonomous agent resilience, transaction Write-Ahead Logging (WAL), RSS memory ceiling guards, and Circuit Breakers.
-- 🔬 **Scientific Heritage:** Rospatent registered software architectures (№ 2026695054, № 2026690237, № 2026667533, № 2025681960, № 2023680119), Zenodo scientific preprints (`10.5281/zenodo.23942797`), and CASE-IN Engineering Championship finalist software suites.
+- 🔬 **Scientific Heritage:** Rospatent registered software architectures (№ 2026695054, № 2026690237, № 2026667533, № 2025681960, № 2023680119), Zenodo scientific preprints (`10.5281/zenodo.23942797`), and CASE-IN Engineering Championship participant software suites.
 
 ---
 
