@@ -1,72 +1,99 @@
 <div align="center">
-  <img src="assets/banner.svg" alt="Roman Pokushko - Autonomous Systems Architect" width="100%" />
+  <img src="assets/banner.svg" alt="Roman Pokushko — Founder & Lead AI Architect at EvoNova Labs" width="100%" />
 </div>
 
-<br/>
-
 <p align="center">
-  <a href="https://github.com/pokushko">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=00D26A&center=true&vCenter=true&width=620&lines=Autonomous+Multi-Agent+Systems+Architect;24%2F7+Resilience+%26+Chaos+Engineering;Quantitative+Systems+%26+Evolutionary+Marathons;Causal+Do-Calculus+%26+High-Throughput+Digital+Twins" alt="Typing SVG" />
-  </a>
+  <a href="https://pokushko.github.io"><img src="https://img.shields.io/badge/EvoNova_Labs-Website-00F0FF?style=flat-square" alt="EvoNova Labs Portal" /></a>
+  <a href="https://orcid.org/0000-0003-1073-6655"><img src="https://img.shields.io/badge/ORCID-0000--0003--1073--6655-A6CE39?style=flat-square" alt="ORCID 0000-0003-1073-6655" /></a>
+  <a href="#peer-reviewed-publications--registered-ip"><img src="https://img.shields.io/badge/Scopus_%2F_WoS-6_Papers-blue?style=flat-square" alt="6 Scopus and Web of Science Papers" /></a>
+  <a href="#peer-reviewed-publications--registered-ip"><img src="https://img.shields.io/badge/Rospatent-5_Certs_%2B_4_Patent_Apps-purple?style=flat-square" alt="5 Rospatent Software Certificates and 4 Patent Applications" /></a>
+  <a href="https://doi.org/10.5281/zenodo.23942797"><img src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.23942797-00D26A?style=flat-square" alt="Zenodo Preprint DOI" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/pokushko"><img src="https://img.shields.io/github/followers/pokushko?style=social" alt="GitHub followers" /></a>
-  <a href="https://github.com/pokushko"><img src="https://img.shields.io/badge/EvoNova%20Labs-Founder%20%26%20Lead%20Architect-00F0FF.svg" alt="EvoNova Labs" /></a>
-  <a href="https://doi.org/10.5281/zenodo.23942797"><img src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.23942797-blue.svg" alt="Zenodo DOI" /></a>
-  <a href="https://github.com/pokushko"><img src="https://img.shields.io/badge/VAK%20Specialty-2.3.1%20System%20Analysis-purple.svg" alt="VAK Specialty 2.3.1" /></a>
-  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License MIT" /></a>
+  🌐 <a href="https://pokushko.github.io"><b>EvoNova Labs Portal</b></a> &nbsp;·&nbsp;
+  📬 <a href="mailto:pokusko.roman@gmail.com"><b>pokusko.roman@gmail.com</b></a> &nbsp;·&nbsp;
+  🆔 <a href="https://orcid.org/0000-0003-1073-6655"><b>ORCID</b></a> &nbsp;·&nbsp;
+  🟢 <b>Open to R&amp;D Grants &amp; Enterprise Consulting</b>
 </p>
 
 ---
 
-### 🏛️ About Me & EvoNova Labs
+### About Me & EvoNova Labs
 
-I am the **Founder & Lead AI Architect at EvoNova Labs**. I design and engineer **autonomous multi-agent architectures**, **fault-tolerant runtime harnesses**, and **industrial cybernetic systems**. At EvoNova Labs, our research bridges deep neuro-symbolic reasoning, physical boundary preservation, and evolutionary self-improving systems operating under continuous real-world conditions.
-
-- 🧠 **Research Specialization:** Autonomous Multi-Agent Systems (MAS), Pearl's Causal Do-Calculus, Evolutionary Hyper-Heuristics, and Industrial Digital Twins.
-- 🛡️ **Reliability Engineering:** 24/7 autonomous agent resilience, transaction Write-Ahead Logging (WAL), RSS memory ceiling guards, and Circuit Breakers.
-- 🔬 **Scientific Heritage:** Author of the Zenodo scientific preprint (*EvoNova Scientist: A Neuro-Symbolic Multi-Agent Framework for Physical Constraint-Preserving Autonomous Scientific Discovery*, [DOI: 10.5281/zenodo.23942797](https://doi.org/10.5281/zenodo.23942797)), Rospatent registered software architectures (№ 2026695054, № 2026690237, № 2026667533, № 2025681960, № 2023680119), and CASE-IN Engineering Championship participant software suites.
+I am the **Founder & Lead AI Architect at EvoNova Labs** and a researcher in **System Analysis, Control, and Information Processing (VAK Specialty 2.3.1, Siberian Federal University, Krasnoyarsk)**. My work focuses on turning fragile LLM prototypes into **24/7 fault-tolerant, sandboxed, physically constrained multi-agent systems** and **industrial cybernetic digital twins**. Every architecture is backed by verifiable engineering and academic artifacts: **6 peer-reviewed Scopus / Web of Science publications**, **5 registered Rospatent software certificates**, **4 pending FIPS invention patent applications**, and **open-source Python runtimes with automated CI verification**.
 
 ---
 
-### 🚀 Featured Open-Source Projects
+### Open-Source Systems & Live CI
 
-| Repository | Focus & Architecture | Status |
+| Repository | Architecture & Production Focus | Build / Status |
 | :--- | :--- | :--- |
-| **[awesome-autonomous-agent-resilience](https://github.com/pokushko/awesome-autonomous-agent-resilience)** | **Curated Awesome List & MAST-Aligned Failure Taxonomy** with 150+ verified tools, papers, and real-world post-mortems for 24/7 resilient AI agents. | [![Awesome](https://awesome.re/badge.svg)](https://github.com/pokushko/awesome-autonomous-agent-resilience) |
-| **[agent-bunker](https://github.com/pokushko/agent-bunker)** | **Chaos Engineering & 24/7 Resilience Harness** for Autonomous AI Agents (WAL, MemoryGuard, CircuitBreaker). | [![Active](https://img.shields.io/badge/v1.0.0-Production%20Ready-brightgreen)](https://github.com/pokushko/agent-bunker) |
-| **[orchestration-engine](https://github.com/pokushko/orchestration-engine)** | **Lightweight MAS Orchestration Engine** with asynchronous message-passing, scatter-gather broadcast, and role-based consensus. | [![Active](https://img.shields.io/badge/v1.0.0-Active-blue)](https://github.com/pokushko/orchestration-engine) |
-| **[agent-security-sandbox](https://github.com/pokushko/agent-security-sandbox)** | **Isolated AST & Memory Sandbox** protecting agent host environments against untrusted LLM-generated code mutations. | [![Active](https://img.shields.io/badge/Security-Hardened-orange)](https://github.com/pokushko/agent-security-sandbox) |
-| **[agentic-vector-memory](https://github.com/pokushko/agentic-vector-memory)** | **Dual-Level Episodic & Semantic Memory** for autonomous agents with fast Cosine/Qdrant retrieval. | [![Active](https://img.shields.io/badge/Memory-RAG-purple)](https://github.com/pokushko/agentic-vector-memory) |
-| **[ktk_elou_avt_core](https://github.com/pokushko/ktk_elou_avt_core)** | **Industrial Cybernetic Digital Twin** of Crude Oil Atmospheric/Vacuum Distillation Units (ELOU-AVT). | [![Active](https://img.shields.io/badge/Industrial-Digital%20Twin-teal)](https://github.com/pokushko/ktk_elou_avt_core) |
-| **[evonova-chem-core](https://github.com/pokushko/evonova-chem-core)** | **Cheminformatics & Molecular Physics Engine** for molecular property computation and candidate screening. | [![Active](https://img.shields.io/badge/Science-RDKit%20Core-yellow)](https://github.com/pokushko/evonova-chem-core) |
+| **[awesome-autonomous-agent-resilience](https://github.com/pokushko/awesome-autonomous-agent-resilience)** | Curated Awesome index (**158** verified frameworks, papers & post-mortems) with a standalone **MAST & OWASP Agentic Top 10** [Failure Taxonomy](https://github.com/pokushko/awesome-autonomous-agent-resilience/blob/main/TAXONOMY.md). | [![Lint & Links](https://github.com/pokushko/awesome-autonomous-agent-resilience/actions/workflows/lint-and-links.yml/badge.svg)](https://github.com/pokushko/awesome-autonomous-agent-resilience/actions/workflows/lint-and-links.yml) |
+| **[agent-bunker](https://github.com/pokushko/agent-bunker)** | 24/7 chaos engineering & resilience harness for autonomous agents featuring **SQLite WAL journaling**, **RSS memory ceiling guards**, and **tri-state circuit breakers**. | [![CI](https://github.com/pokushko/agent-bunker/actions/workflows/ci.yml/badge.svg)](https://github.com/pokushko/agent-bunker/actions/workflows/ci.yml) |
+| **[orchestration-engine](https://github.com/pokushko/orchestration-engine)** | Zero-dependency Python `asyncio` MAS orchestrator with **Kahn topological DAG waves**, configurable **timeouts/retries**, fault isolation, and **consensus reducers**. | [![CI](https://github.com/pokushko/orchestration-engine/actions/workflows/ci.yml/badge.svg)](https://github.com/pokushko/orchestration-engine/actions/workflows/ci.yml) |
+| **[agent-security-sandbox](https://github.com/pokushko/agent-security-sandbox)** | Pre-flight **Python AST security inspector**, prompt-injection sanitizer, and isolated execution runtime preventing dunder reflection escapes and secret leaks. | [![CI](https://github.com/pokushko/agent-security-sandbox/actions/workflows/ci.yml/badge.svg)](https://github.com/pokushko/agent-security-sandbox/actions/workflows/ci.yml) |
+| **[agentic-vector-memory](https://github.com/pokushko/agentic-vector-memory)** | Dual-store episodic & semantic memory engine combining **exponential temporal decay**, hybrid cosine similarity scoring, and **SQLite ACID persistence**. | [![CI](https://github.com/pokushko/agentic-vector-memory/actions/workflows/ci.yml/badge.svg)](https://github.com/pokushko/agentic-vector-memory/actions/workflows/ci.yml) |
+| **[ktk_elou_avt_core](https://github.com/pokushko/ktk_elou_avt_core)** | Industrial cybernetic digital twin prototype for crude oil atmospheric/vacuum distillation units (**ELOU-AVT**, CASE-IN Engineering Championship participant). | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/pokushko/ktk_elou_avt_core/blob/main/LICENSE) |
+| **[evonova-chem-core](https://github.com/pokushko/evonova-chem-core)** | Cheminformatics & RDKit molecular descriptor screening core for constraint-preserving autonomous scientific discovery. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/pokushko/evonova-chem-core/blob/main/LICENSE) |
 
 ---
 
-### 🛠️ Core Technology Stack
+### Peer-Reviewed Publications & Registered IP
 
-```
-Languages:        Python 3.11+, C++20, SQL, Rust, Bash, PowerShell
-Architecture:     AsyncIO, Multi-Agent Swarms, Microservices, Event-Driven Actor Model
-AI & Quant:       PyTorch, NumPy, DuckDB, Polars, SymPy, SciPy, RDKit, Mol*
-Databases & RAG:  DuckDB, SQLite, Qdrant, Redis, Parquet Columnar Storage
-Infra & DevOps:   Docker, Linux VPS, GitHub Actions, Systemd, Prometheus, Grafana
-```
+#### Peer-Reviewed Journal & Conference Articles (Scopus / Web of Science)
+
+| Year | Publication Title | Venue / Indexation | DOI |
+| :---: | :--- | :--- | :--- |
+| 2025 | *The Charnes, Cooper and Rhodes model and its application* | *Facta Universitatis, Series: Mathematics and Informatics* (WoS Q3 / Scopus) | [`10.22190/FUMI240306015P`](https://doi.org/10.22190/FUMI240306015P) |
+| 2025 | *Application of the feedback mechanism in systems using a direct current motor* | *ITM Web of Conferences* (WoS / Scopus) | [`10.1051/itmconf/20257202013`](https://doi.org/10.1051/itmconf/20257202013) |
+| 2024 | *Data Envelopment Analysis for efficient traffic management* | *ITM Web of Conferences* (WoS / Scopus) | [`10.1051/itmconf/20245901002`](https://doi.org/10.1051/itmconf/20245901002) |
+| 2024 | *Sample size analysis for conducting research* | *ITM Web of Conferences* (WoS / Scopus) | [`10.1051/itmconf/20245903006`](https://doi.org/10.1051/itmconf/20245903006) |
+| 2023 | *Algorithm for Application of a Basic Model for the Data Envelopment Analysis Method in Technical Systems* | *Algorithms* (Scopus / WoS Q2) | [`10.3390/a16100460`](https://doi.org/10.3390/a16100460) |
+| 2023 | *Slack Based Model for Enterprises' Efficiency Improvement* | *European Proceedings of Computers and Technology* (WoS) | [`10.15405/epct.23021.43`](https://doi.org/10.15405/epct.23021.43) |
+
+- **Zenodo Preprint (2026):** *EvoNova Scientist: A Neuro-Symbolic Multi-Agent Framework for Physical Constraint-Preserving Autonomous Scientific Discovery* (Pokushko R. V., Pokushko M. V.) — [`10.5281/zenodo.23942797`](https://doi.org/10.5281/zenodo.23942797)
+
+<details>
+<summary><b>Registered Intellectual Property — 5 Rospatent Software Certificates &amp; 4 FIPS Patent Applications (Pending)</b></summary>
+
+#### Rospatent Registered Software Certificates (Свидетельства о государственной регистрации программы для ЭВМ)
+1. **№ 2026695054** — Multi-Agent Co-Evolutionary Optimization Suite for Stochastic Dynamical Systems (*Программный комплекс мультиагентной коэволюционной оптимизации стохастических динамических систем*)
+2. **№ 2026690237** — Predictive Causal Analysis and Metastable Regime Detection System (*Система предиктивного каузального анализа и обнаружения метастабильных режимов*)
+3. **№ 2026667533** — *EvoNova Catalyst Core* — Multi-Agent Hypothesis Synthesis Engine (*Программа для ЭВМ «EvoNova Catalyst Core — Мультиагентный движок синтеза гипотез»*)
+4. **№ 2025681960** — Adaptive Phase-Space Controller for Stochastic Processes (*Адаптивный контроллер фазового пространства стохастических процессов*)
+5. **№ 2023680119** — Data Envelopment Analysis Input Data Preparation System via Multiple Regression (*Информационная система формирования исходных данных для метода DEA на базе множественной модели регрессии*)
+
+#### FIPS Invention Patent Applications (Зарегистрированные заявки на изобретения, Pending Examination)
+- **Application № 2026161939** — Adaptive Control of Stochastic Dynamical Systems via Causal Graphs and Do-Calculus
+- **Application № 2026161953** — Multi-Agent Arbitration of Scientific Hypotheses in Distributed Compute Environments
+- **Application № 2026161956** — Preventive Mitigation of Stochastic Degradation in Closed-Loop Control Systems
+- **Application № 2026161957** — Synthesis of Invariant Dynamical Models via Turbulence Tensor Representations
+
+</details>
 
 ---
 
-### 📊 GitHub Activity & Metrics
+### Enterprise Consulting & R&D Grants
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pokushko&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pokushko&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+| Engagement Track | What We Deliver | Target Audience |
+| :--- | :--- | :--- |
+| **1. AI Agent Production Hardening & Chaos Audit** | Failure-mode audit against **MAST & OWASP Agentic Top 10**, SQLite/Postgres WAL state recovery, tri-state circuit breakers, pre-flight AST & microVM sandboxing, and fault-injection stress suites. | AI startups & engineering teams moving agents from prototype to 24/7 production |
+| **2. Custom 24/7 Multi-Agent Systems** | End-to-end Python `asyncio` DAG orchestration, bounded episodic memory with temporal decay, **OpenTelemetry GenAI** observability, and automated CI regression pipelines. | Enterprise automation, FinTech/ops copilots & R&D automation platforms |
+| **3. Industrial Digital Twins & Scientific AI** | Cybernetic process simulation (energy, petrochemical & continuous manufacturing), DEA efficiency modeling, RDKit/symbolic physical invariant enforcement. | Industrial enterprises & deep-tech R&D divisions |
+| **4. Joint R&D Grants & Consortiums** | Technical architecture, mathematical modeling, IP registration, and Scopus/WoS co-authoring for **RSF (РНФ)**, **FASIE (ФСИ «Старт»)**, **Skolkovo**, and **BRICS STI** calls (VAK Specialty 2.3.1, SFU). | Universities, industrial partners & deep-tech founders |
+
+> **[Request Enterprise Audit / Pilot](mailto:pokusko.roman@gmail.com?subject=EvoNova%20Labs%20%E2%80%94%20Enterprise%20AI%20Inquiry)** &nbsp;|&nbsp;
+> **[Propose R&D Grant Collaboration](mailto:pokusko.roman@gmail.com?subject=EvoNova%20Labs%20%E2%80%94%20R%26D%20Grant%20Collaboration)** &nbsp;|&nbsp;
+> **[Visit EvoNova Labs Portal](https://pokushko.github.io)**
 
 ---
 
-### 📬 Connect & Collaborate
+### Core Engineering Stack
 
-- **Email:** [pokusko.roman@gmail.com](mailto:pokusko.roman@gmail.com)
-- **GitHub:** [@pokushko](https://github.com/pokushko)
-- **Focus Areas:** Autonomous Agent Governance, Chaos Engineering, High-Frequency Digital Twins, Cross-Table Biophysical Solvers.
+| Layer | Technologies |
+| :--- | :--- |
+| **Languages & Runtime** | Python 3.11+, C++20, SQL, Rust, Bash, PowerShell, `asyncio` |
+| **Multi-Agent & Resilience** | Custom DAG Orchestrators, LangGraph, LiteLLM, SQLite WAL, Circuit Breakers, AST Sandboxing |
+| **Scientific & Causal AI** | PyTorch, NumPy, SciPy, SymPy, PySR, DoWhy, Z3, RDKit, Data Envelopment Analysis (DEA) |
+| **Data, Obs & DevOps** | DuckDB, SQLite, Qdrant, Parquet, OpenTelemetry, Docker, Linux VPS, GitHub Actions (`pytest`, `ruff`) |

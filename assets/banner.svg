@@ -43,15 +43,15 @@
   <line x1="40" y1="179" x2="400" y2="179" stroke="url(#lineGrad)" stroke-width="2" />
 
   <!-- Header Badge -->
-  <rect x="40" y="28" width="160" height="22" rx="4" fill="#0e231e" stroke="#00D26A" stroke-width="0.8" />
-  <text x="50" y="43" fill="#00D26A" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10.5" font-weight="700" letter-spacing="1.5">AUTONOMOUS SYSTEMS</text>
+  <rect x="40" y="28" width="295" height="22" rx="4" fill="#0e231e" stroke="#00D26A" stroke-width="0.8" />
+  <text x="50" y="43" fill="#00D26A" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10.5" font-weight="700" letter-spacing="1.5">EVONOVA LABS • FOUNDER &amp; LEAD AI ARCHITECT</text>
 
   <!-- Main Title -->
   <text x="40" y="94" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="34" font-weight="800" letter-spacing="-0.5">ROMAN POKUSHKO</text>
 
   <!-- Subtitle with Gradient -->
-  <text x="40" y="126" fill="url(#textGrad)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" font-weight="600" letter-spacing="0.5">Multi-Agent Swarm Architect &amp; 24/7 Resilience Harness Engineering</text>
+  <text x="40" y="126" fill="url(#textGrad)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" font-weight="600" letter-spacing="0.5">Fault-Tolerant Multi-Agent Systems, Causal AI &amp; Industrial Digital Twins</text>
 
   <!-- Subtext Indicators -->
-  <text x="40" y="152" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11.5">VAK 2.3.1 Systems Analysis • Pearl's Causal Do-Calculus • Industrial Digital Twins</text>
+  <text x="40" y="152" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11.5">6 Scopus / WoS Papers • 5 Rospatent Certs • 4 FIPS Patent Apps • VAK 2.3.1 (SFU)</text>
 </svg>
