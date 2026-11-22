@@ -26,7 +26,7 @@ I am the **Founder & Lead AI Architect at EvoNova Labs**. I design and engineer 
 
 - 🧠 **Research Specialization:** Autonomous Multi-Agent Systems (MAS), Pearl's Causal Do-Calculus, Evolutionary Hyper-Heuristics, and Industrial Digital Twins.
 - 🛡️ **Reliability Engineering:** 24/7 autonomous agent resilience, transaction Write-Ahead Logging (WAL), RSS memory ceiling guards, and Circuit Breakers.
-- 🔬 **Scientific Heritage:** Author of CERN Zenodo scientific publications (*EvoNova Scientist: A Neuro-Symbolic Multi-Agent Framework for Physical Constraint-Preserving Autonomous Scientific Discovery*, [DOI: 10.5281/zenodo.23942797](https://doi.org/10.5281/zenodo.23942797)), Rospatent registered software architectures (№ 2026695054, № 2026690237, № 2026667533, № 2025681960, № 2023680119), and CASE-IN Engineering Championship participant software suites.
+- 🔬 **Scientific Heritage:** Author of the Zenodo scientific preprint (*EvoNova Scientist: A Neuro-Symbolic Multi-Agent Framework for Physical Constraint-Preserving Autonomous Scientific Discovery*, [DOI: 10.5281/zenodo.23942797](https://doi.org/10.5281/zenodo.23942797)), Rospatent registered software architectures (№ 2026695054, № 2026690237, № 2026667533, № 2025681960, № 2023680119), and CASE-IN Engineering Championship participant software suites.
 
 ---
 
@@ -34,7 +34,7 @@ I am the **Founder & Lead AI Architect at EvoNova Labs**. I design and engineer 
 
 | Repository | Focus & Architecture | Status |
 | :--- | :--- | :--- |
-| **[awesome-autonomous-agent-resilience](https://github.com/pokushko/awesome-autonomous-agent-resilience)** | **Curated Knowledge Base & Research Index** on 24/7 self-healing, chaos engineering, and agent resilience. | [![Awesome](https://awesome.re/badge.svg)](https://github.com/pokushko/awesome-autonomous-agent-resilience) |
+| **[awesome-autonomous-agent-resilience](https://github.com/pokushko/awesome-autonomous-agent-resilience)** | **Curated Awesome List & MAST-Aligned Failure Taxonomy** with 150+ verified tools, papers, and real-world post-mortems for 24/7 resilient AI agents. | [![Awesome](https://awesome.re/badge.svg)](https://github.com/pokushko/awesome-autonomous-agent-resilience) |
 | **[agent-bunker](https://github.com/pokushko/agent-bunker)** | **Chaos Engineering & 24/7 Resilience Harness** for Autonomous AI Agents (WAL, MemoryGuard, CircuitBreaker). | [![Active](https://img.shields.io/badge/v1.0.0-Production%20Ready-brightgreen)](https://github.com/pokushko/agent-bunker) |
 | **[orchestration-engine](https://github.com/pokushko/orchestration-engine)** | **Lightweight MAS Orchestration Engine** with asynchronous message-passing, scatter-gather broadcast, and role-based consensus. | [![Active](https://img.shields.io/badge/v1.0.0-Active-blue)](https://github.com/pokushko/orchestration-engine) |
 | **[agent-security-sandbox](https://github.com/pokushko/agent-security-sandbox)** | **Isolated AST & Memory Sandbox** protecting agent host environments against untrusted LLM-generated code mutations. | [![Active](https://img.shields.io/badge/Security-Hardened-orange)](https://github.com/pokushko/agent-security-sandbox) |
