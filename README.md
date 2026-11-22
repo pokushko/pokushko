@@ -33,6 +33,7 @@ I design and engineer **autonomous multi-agent architectures**, **fault-tolerant
 
 | Repository | Focus & Architecture | Status |
 | :--- | :--- | :--- |
+| **[awesome-autonomous-agent-resilience](https://github.com/pokushko/awesome-autonomous-agent-resilience)** | **Curated Knowledge Base & Research Index** on 24/7 self-healing, chaos engineering, and agent resilience. | [![Awesome](https://awesome.re/badge.svg)](https://github.com/pokushko/awesome-autonomous-agent-resilience) |
 | **[agent-bunker](https://github.com/pokushko/agent-bunker)** | **Chaos Engineering & 24/7 Resilience Harness** for Autonomous AI Agents (WAL, MemoryGuard, CircuitBreaker). | [![Active](https://img.shields.io/badge/v1.0.0-Production%20Ready-brightgreen)](https://github.com/pokushko/agent-bunker) |
 | **[orchestration-engine](https://github.com/pokushko/orchestration-engine)** | **Lightweight MAS Orchestration Engine** with asynchronous message-passing, scatter-gather broadcast, and role-based consensus. | [![Active](https://img.shields.io/badge/v1.0.0-Active-blue)](https://github.com/pokushko/orchestration-engine) |
 | **[agent-security-sandbox](https://github.com/pokushko/agent-security-sandbox)** | **Isolated AST & Memory Sandbox** protecting agent host environments against untrusted LLM-generated code mutations. | [![Active](https://img.shields.io/badge/Security-Hardened-orange)](https://github.com/pokushko/agent-security-sandbox) |
